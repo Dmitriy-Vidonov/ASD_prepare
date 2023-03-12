@@ -4,8 +4,6 @@ class digitSum {
     int sum(int N) {
         if(N < 10)
             return N;
-        int lastDigit = N % 10;
-        int numWithoutLastDigit = N / 10;
-        return lastDigit + sum(numWithoutLastDigit);
+        return N % 10 + sum(N / 10);
     }
 }
