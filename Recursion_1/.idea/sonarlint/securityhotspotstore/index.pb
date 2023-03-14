@@ -13,9 +13,3 @@ d
 4src/main/java/ex_3_list_length/TestListLen_test.java,5\3\53b7a7724e4a9231c1660b951e92fa708f60a100
 c
 3src/main/java/ex_3_list_length/listLength_test.java,4\f\4f8cee424f8a77fd0e7706d8483fcacd2dfa43b9
-[
-+src/main/java/ex_3_list_length/popList.java,9\0\902adfd876de1b6394c9138dea310c3fe4c39325
-_
-/src/main/java/ex_3_list_length/testPopList.java,1\f\1ff67fed7cd1ac74045e9947f3c023fc88ec436c
-_
-/src/main/java/ex_3_list_length/lenListCalc.java,6\a\6ad562b1d47ac4cccfb299f9304902bb85695dd4
