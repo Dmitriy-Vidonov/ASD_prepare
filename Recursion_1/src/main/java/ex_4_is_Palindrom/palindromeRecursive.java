@@ -11,7 +11,6 @@ public class palindromeRecursive {
         if(str.charAt(0) != str.charAt(len-1))
             return false;
 
-        String betweenStr = str.substring(1, len-1);
-        return isPal(betweenStr);
+        return isPal(str.substring(1, len-1));
     }
 }
