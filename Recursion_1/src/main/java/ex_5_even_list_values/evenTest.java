@@ -11,7 +11,7 @@ public class evenTest {
         listEven.add(1);
         listEven.add(7);
 
-        evenValClear evenCheck = new evenValClear();
-        evenCheck.isValPrint(listEven);
+        evenValClear3 evenCheck = new evenValClear3();
+        evenCheck.printEven(listEven);
     }
 }
