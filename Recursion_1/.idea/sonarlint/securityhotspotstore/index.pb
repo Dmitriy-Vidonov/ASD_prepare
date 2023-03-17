@@ -19,3 +19,17 @@ U
 .src/main/java/ex_4_is_Palindrom/testPalin.java,c\2\c26af84337713d23cc9f75269f0f578a2264f7ad
 ]
 -src/main/java/ex_4_is_Palindrom/checkRec.java,c\f\cf2e10c48198966330f420fc0aced2658e1a1612
+h
+8src/main/java/ex_4_is_Palindrom/palindromeRecursive.java,1\2\1280c944f2189116875cf1a5b5a84bcf5619431a
+c
+3src/main/java/ex_3_list_length/listLength_test.java,4\f\4f8cee424f8a77fd0e7706d8483fcacd2dfa43b9
+d
+4src/main/java/ex_5_even_list_values/evenValTest.java,0\9\0937c0314a8785d1c3c7c215d8fb021e9f8f48dd
+e
+5src/main/java/ex_5_even_list_values/evenValClear.java,e\8\e85d3c4b756fec9d0987b37bbf37c99a134c7f11
+_
+/src/main/java/ex_3_list_length/lenListCalc.java,6\a\6ad562b1d47ac4cccfb299f9304902bb85695dd4
+a
+1src/main/java/ex_5_even_list_values/evenTest.java,4\e\4e5ece23f0c70366a730af662a637a29ea8b5645
+f
+6src/main/java/ex_5_even_list_values/evenValClear3.java,4\e\4ecc04c2178552b6ad1e0fe26d222dd6ea75af1d
