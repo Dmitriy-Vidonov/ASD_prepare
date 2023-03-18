@@ -33,3 +33,7 @@ a
 1src/main/java/ex_5_even_list_values/evenTest.java,4\e\4e5ece23f0c70366a730af662a637a29ea8b5645
 f
 6src/main/java/ex_5_even_list_values/evenValClear3.java,4\e\4ecc04c2178552b6ad1e0fe26d222dd6ea75af1d
+f
+6src/main/java/ex_5_even_list_values/evenValClear2.java,6\7\67c344b6cef22b5056ff99a0bc0210c8701eb3d1
+m
+=src/main/java/ex_6_even_indexes_print/EvenIndexPrintTest.java,6\8\68c227df2032dd01e8fd7b2d26890f710e26e4a4
