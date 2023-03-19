@@ -37,3 +37,11 @@ f
 6src/main/java/ex_5_even_list_values/evenValClear2.java,6\7\67c344b6cef22b5056ff99a0bc0210c8701eb3d1
 m
 =src/main/java/ex_6_even_indexes_print/EvenIndexPrintTest.java,6\8\68c227df2032dd01e8fd7b2d26890f710e26e4a4
+i
+9src/main/java/ex_6_even_indexes_print/EvenIndexPrint.java,0\0\00e81e2c2a2afbafb603d5f6863540bae7522a70
+h
+8src/main/java/ex_7_second_max_element/SecondMaxTest.java,9\c\9c04acf338074528944c6fa16de3938e158f24c4
+i
+9src/main/java/ex_7_second_max_element/SecondMaxTest2.java,1\9\19a246395a382c326df8dd9c2c3ae18c5cdebe2b
+d
+4src/main/java/ex_7_second_max_element/SecondMax.java,7\2\722016207254ddbf34c49ce49b2d2cf7b2c21566
