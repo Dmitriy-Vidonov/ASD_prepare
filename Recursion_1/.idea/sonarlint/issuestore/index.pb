@@ -43,5 +43,5 @@ h
 8src/main/java/ex_7_second_max_element/SecondMaxTest.java,9\c\9c04acf338074528944c6fa16de3938e158f24c4
 i
 9src/main/java/ex_7_second_max_element/SecondMaxTest2.java,1\9\19a246395a382c326df8dd9c2c3ae18c5cdebe2b
-d
-4src/main/java/ex_7_second_max_element/SecondMax.java,7\2\722016207254ddbf34c49ce49b2d2cf7b2c21566
+~
+Nsrc/main/java/ex_8_file_search/remember_work_with_files/work_with_files_1.java,2\b\2bfdb9ffe315ae843b646d918d6195f909fce297

@@ -1,16 +1,22 @@
 package ex_8_file_search;
 
 import java.io.File;
-import java.util.List;
+import java.util.ArrayList;
 
 class FilesSearch {
-    public static void findFiles(File dir, List<File> fileList) {
+    public static ArrayList<File> findFiles(File dir) {
+        ArrayList<File> filelist = new ArrayList<>();
+        return findFilesHelper(dir, filelist);
+    }
+
+    private static ArrayList<File> findFilesHelper(File dir, ArrayList<File> filelist) {
         File[] files = dir.listFiles();
         for(File file : files) {
-            fileList.add(file);
+            filelist.add(file);
             if(file.isDirectory()) {
-                findFiles(file, fileList);
+                findFilesHelper(file, filelist);
             }
         }
+        return filelist;
     }
 }

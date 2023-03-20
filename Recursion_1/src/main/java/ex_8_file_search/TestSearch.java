@@ -27,9 +27,8 @@ public class TestSearch {
 
         // тестирование отдельного класса FilesSearch
         List<File> fileList1 = new ArrayList<>();
-        FilesSearch.findFiles(dir, fileList1);
-        for(File file : fileList1) {
-            System.out.println(file.getAbsolutePath());
-        }
+        fileList1 = FilesSearch.findFiles(dir);
+        for(File unitFile : fileList1)
+            System.out.println(unitFile.getAbsolutePath());
     }
 }
